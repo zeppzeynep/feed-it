@@ -2,9 +2,9 @@ using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.UIElements;
 
-public class MovinngForward : MonoBehaviour
+public class MovingForward : MonoBehaviour
 {
-    public float speed = 40.0f;
+    public float speed = 35.0f;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {   
